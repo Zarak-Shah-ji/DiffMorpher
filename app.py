@@ -159,7 +159,7 @@ with gr.Blocks() as demo:
         ### Usage:
         1. Upload two images (with correspondence) and fill out the prompts. 
            (It's recommended to change `[Output path]` accordingly.)
-        2. Click **"Run!"**
+        2. Click **"Run!"** 
         
         Or:
         1. Upload two images (with correspondence) and fill out the prompts.
